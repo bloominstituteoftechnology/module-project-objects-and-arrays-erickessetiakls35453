@@ -1,13 +1,10 @@
-# Objects and Arrays - Module Project
+- 👋 Hi, I’m @erickessetiakls35453
+- 👀 I’m interested in ... soft ware 
+- 🌱 I’m currently learning ... software engineer for  a
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-## Instructions
-
-1. Clone this repository to your computer using git: `git clone <this repository's remote url>`
-2. Open the `index.html` file in both VSCode and the Chrome browser:
-    - VSCode is where you will make changes to the code.
-    - Chrome is where you will check if your code is working correctly.
-3. In Chrome, open the Console by typing `Ctrl+Shift+j` (Windows) or `Command+Option+j` (Mac).
-4. Return to VSCode and start working on your Challenges.
-5. When you want to check if your code is correct, save changes, go to Chrome and refresh the page.
-    - Test results and possible crashes will show in the Console.
-    - If the code contains a graphical component it will display in the browser window.
+<!---
+erickessetiakls35453/erickessetiakls35453 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
